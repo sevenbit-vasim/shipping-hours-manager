@@ -1,5 +1,4 @@
 <?php 
-
 if(!class_exists('ShippingHoursManagerOptions')){
     
     class ShippingHoursManagerOptions {
